@@ -32,7 +32,7 @@ Start up the terminal:
 
 ![](./res/hint_pic1.png)
 
-This task requires us to use **Exiftool* tool to figure out which document has been modifed/tampered by Jack Frost.
+This task requires us to use **Exiftool** tool to figure out which document has been modifed/tampered by Jack Frost.
 
 Do a quick `ls` to find out how many files there are on terminal.
 
@@ -47,11 +47,11 @@ Every file has been last modified by Santa Claus except for `2021-12-21.docx` wh
 
 ![](./res/hint_pic3.png)
 
-So the answer is: **2021-12-21.docs**
+Hence, the answer is: **2021-12-21.docs**
 
 ![](./res/hint_answer.png)
 
-Go back to interact with Piney Sappington and he will reveal several hints to Tangle Coalbox's task.
+Exit the terminal and interact with Piney Sappington. He will reveal several hints to Tangle Coalbox's task.
 
 Hints Provided by Piney Sappinton:  
 - Don't forget coordinate systems other than lat/long like [MGRS](https://en.wikipedia.org/wiki/Military_Grid_Reference_System) and [what3words](https://what3words.com/).  
@@ -70,10 +70,10 @@ Basically you start off in a random location in the world, and the game objectiv
 At each location, you are given 3 links provided as shown:
 
 - The first link `Investigate` provides 3 areas for you to ask for clues. Each area provides 1 unique clue, revisiting the same area will provide the same clue. The clues can be clues about the next correct location, or certain characteristics of an elf for you to filter and pinpoint which elf you are exactly looking for.  
-- The second link "Visit InterRink" is where you indicate the filters based on clues provided to pinpoint the exact elf you are looking for. **The elf to look for needs to be identified before reaching the final correct destination**.  
-- The last link "Depart by sleigh" is where you choose to travel for your next destination.
+- The second link `Visit InterRink` is where you indicate the filters based on clues provided to pinpoint the exact elf you are looking for. **The elf to look for needs to be identified before reaching the final correct destination**.  
+- The last link `Depart by sleigh` is where you choose to travel for your next destination.
 
-The constraint to this game is that every action consumes time, so you need to reach the elf in the fastest time possible
+**The constraint to this game is that every action consumes time, so you need to reach the elf in the fastest time possible.**
 
 At the last location, you will not be able to use the third link anymore, and you have to Investigate to "catch" the elf, after which you need to choose the name of the elf you caught.
 
