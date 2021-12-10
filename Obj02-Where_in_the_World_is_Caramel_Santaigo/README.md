@@ -15,7 +15,9 @@ Answer: **Name of Elf varies each time you start the puzzle/game. Follow the sol
 
 ## Walkthrough:
 
-Tangle Coalbox is found in the _Santa's Couryard_. To get there from the entrance, First enter the building to a big room called _Entry_. then exit from the north to reach _Santa's Courtyard_.
+Tangle Coalbox is found in the _Santa's Couryard_. To get there from the entrance, First enter the building to a big room called _Entry_. From here, you can either:  
+1. go to the left of the room to _Dining Room_, then exit from the north to reach _Santa's Courtyard_, OR
+2. go to the right of the room to _Great Room_, and then exit from the north to reach _Santa's Courtyard_.
 
 Interacting with Tangle Coalbox will reveals that he needs help using OSINT (Open-source intelligence) to find some elves who have been on misdirected journeys around the globe.
 
