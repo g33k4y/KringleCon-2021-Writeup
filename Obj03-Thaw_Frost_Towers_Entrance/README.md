@@ -15,13 +15,13 @@ Answer: **Follow the solution below to melt the ice around the front door**
 
 ## Walkthrough
 
-This objective requires the use of the Wifi Dongle that was found at the very beginning during Objective 01. You can find it in your Inventory. To understand the objective. You can proceed to the _Frost Tower_ on the right of the Santa's building and speak to Grimy Mctrollkins, who is standing outside the _Frost Tower_.
+This objective requires the use of the Wifi Dongle that was found at the very beginning during Objective 01. You can find it in your Inventory. To understand the objective. You can proceed to the _Frost Tower_ on the right of the Santa's Castle and speak to Grimy Mctrollkins, who is standing outside the _Frost Tower_.
 
-To get to the _Frost Tower_, go back to the _The North Pole_ (Step out of Santa's building) and proceed all the way to the right.
+To get to the _Frost Tower_, go back to the _The North Pole_ (Step out of Santa's Castle) and proceed all the way to the right.
 
 ![](./res/grimy.png)
 
-Interact with Grimy Mctrollkins and he is working for Jack Frost, the owner of the _Frost Tower_. He currently needs help with opening the front door of the _Frost Tower_ because Jack Frost is so obsessed with icy cold that he accidentally freeze shut the front door. To open the door, we need to get access to the thermostat inside the building and use the thermostat to melt the door open. The thermostat is accessible via the wifi provided by the Wifi Dongle in our inventory.
+Interact with Grimy Mctrollkins and he is working for Jack Frost, the owner of the _Frost Tower_. He currently needs help with opening the front door of the _Frost Tower_ because Jack Frost is so obsessed with icy cold that he accidentally freeze shut the front door. To open the door, we need to get access to the thermostat inside the Castle and use the thermostat to melt the door open. The thermostat is accessible via the wifi provided by the Wifi Dongle in our inventory.
 
 We can also look for Greasy Gopherguts who is also standing outside the _Frost Tower_ in the _The North Pole_ for tips to this objective. He is standing a little further to the right of Grimy Mctrollkins. 
 
@@ -136,15 +136,15 @@ Start up the Wifi Dongle CLI interface by going to your inventory and click `Ope
 
 ![](./res/sol_pic1.png)
 
-in summary, `iwlist` command allows you to scan the surrounding location for any available WiFi network, while `iwconfig` command allows you to connect to an available WiFI network.
+In summary, `iwlist` command allows you to scan the surrounding location for any available WiFi network, while `iwconfig` command allows you to connect to an available WiFI network.
 
 try the following command to find an available WiFi network: `iwlist scanning`
 
 ![](./res/sol_pic2.png)
 
-If there is no WiFi network listed, walk around the _Frost Tower_ building and try at a different spot near the building.
+If there is no WiFi network listed, walk around the _Frost Tower_ Castle and try at a different spot near the Castle.
 
-Next attempt to connect to the Wifi Network using the following command: `iwconfig wlan0 essid FROST-Nidus-Setup`
+Next, attempt to connect to the Wifi Network using the following command: `iwconfig wlan0 essid FROST-Nidus-Setup`
 
 If successful, you will get the following response:  
 ![](./res/sol_pic3.png)
