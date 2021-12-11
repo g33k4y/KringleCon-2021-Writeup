@@ -19,13 +19,13 @@ This objective requires the use of the Wifi Dongle that was found at the very be
 
 To get to the _Frost Tower_, go back to the _The North Pole_ (Step out of Santa's Castle) and proceed all the way to the right.
 
-![](./res/grimy.png)
+![](./res/grimy_mctrollkins.png)
 
 Interact with Grimy Mctrollkins and he is working for Jack Frost, the owner of the _Frost Tower_. He currently needs help with opening the front door of the _Frost Tower_ because Jack Frost is so obsessed with icy cold that he accidentally freeze shut the front door. To open the door, we need to get access to the thermostat inside the Castle and use the thermostat to melt the door open. The thermostat is accessible via the wifi provided by the Wifi Dongle in our inventory.
 
 We can also look for Greasy Gopherguts who is also standing outside the _Frost Tower_ in the _The North Pole_ for tips to this objective. He is standing a little further to the right of Grimy Mctrollkins. 
 
-![](./res/greasy.png)
+![](./res/greasy_gopherguts.png)
 
 
 ---
