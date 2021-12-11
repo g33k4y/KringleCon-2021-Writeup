@@ -8,6 +8,6 @@ My own writeup on KringleCon 2021
 - Obj02-Where_in_the_World_is_Caramel_Santaigo
 - Obj03-Thaw_Frost_Towers_Entrance
 - Obj04-Slot_Machine_Investigation
-
+- Obj05-Strange_USB_Device
 
 ### Incomplete Writeups:
