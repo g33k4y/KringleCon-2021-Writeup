@@ -1,4 +1,4 @@
-# 2) Thaw Frost Tower's Entrance
+# 3) Thaw Frost Tower's Entrance
 
 > Difficulty: 2/5
 > 
