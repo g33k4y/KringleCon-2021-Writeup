@@ -9,5 +9,6 @@ My own writeup on KringleCon 2021
 - Obj03-Thaw_Frost_Towers_Entrance
 - Obj04-Slot_Machine_Investigation
 - Obj05-Strange_USB_Device
+- Obj06-Shellcode_Primer
 
 ### Incomplete Writeups:
