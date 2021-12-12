@@ -10,5 +10,8 @@ My own writeup on KringleCon 2021
 - Obj04-Slot_Machine_Investigation
 - Obj05-Strange_USB_Device
 - Obj06-Shellcode_Primer
+- Obj09-Splunk!
 
-### Incomplete Writeups:
+### Incomplete/Missing Writeups:
+
+- Obj07-Printer_Exploitation
