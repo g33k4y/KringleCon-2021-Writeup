@@ -18,9 +18,7 @@ To solve this objective, we need to find the Shellcode Primer in _Jack's Office_
 
 To find the Shellcode Primer: Go to the _Frost Tower_ located on the right of _The North Pole_. Enter the _Frost Tower_ (need to complete Objective 3 first) and take the stairs at the top right side of the _Frost Tower Lobby_. You will need to keep climbing the stairs from level 1 to level 16 to reach _Jack's Office_. The Shellcode Primer is on the table beside Ruby Cyster.
 
-![](./res/ruby_cyster.png)
-
-Ruby Cyster suspects that someone is learning how to hack the North Pole systems. We will probably need to solve this objective to find out who that someone is.
+![](./res/shellcode_primer.png)
 
 First we look for Chimney Scissorsticks in the _NetWars_ area to get more hints to solve this objective.  
 To find Chimney Scissorsticks: Go to the lift within the _Santa's Castle_ and proceed to "NetWars" on level R. Chimney Scissorsticks can be found in this _NetWars_ area.
