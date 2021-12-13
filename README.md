@@ -11,6 +11,7 @@ My own writeup on KringleCon 2021
 - Obj05-Strange_USB_Device
 - Obj06-Shellcode_Primer
 - Obj09-Splunk!
+- Obj10-Now_Hiring!
 - Obj11-Customer_Complaint_Analysis
 
 ### Incomplete/Missing Writeups:
