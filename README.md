@@ -14,7 +14,10 @@ My own writeup on KringleCon 2021
 - Obj10-Now_Hiring!
 - Obj11-Customer_Complaint_Analysis
 - Bonus-Red-Log4Jack
+- Bonus-Blue-Log4Jack
 
 ### Incomplete/Missing Writeups:
 
 - Obj07-Printer_Exploitation
+- Obj12-Frost_Tower_Website_Checkup
+- Obj13-FPGA_Programming
