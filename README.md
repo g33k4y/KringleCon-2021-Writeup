@@ -13,6 +13,7 @@ My own writeup on KringleCon 2021
 - Obj09-Splunk!
 - Obj10-Now_Hiring!
 - Obj11-Customer_Complaint_Analysis
+- Bonus-Red-Log4Jack
 
 ### Incomplete/Missing Writeups:
 
