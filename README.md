@@ -10,14 +10,16 @@ My own writeup on KringleCon 2021
 - Obj04-Slot_Machine_Investigation
 - Obj05-Strange_USB_Device
 - Obj06-Shellcode_Primer
+- Obj07-Printer_Exploitation (hint portion)
 - Obj09-Splunk!
 - Obj10-Now_Hiring!
 - Obj11-Customer_Complaint_Analysis
+- Obj13-FPGA_Programming (hint portion)
 - Bonus-Red-Log4Jack
 - Bonus-Blue-Log4Jack
 
 ### Incomplete/Missing Writeups:
 
-- Obj07-Printer_Exploitation
+- Obj07-Printer_Exploitation (main solution)
 - Obj12-Frost_Tower_Website_Checkup
-- Obj13-FPGA_Programming
+- Obj13-FPGA_Programming (main solution)
