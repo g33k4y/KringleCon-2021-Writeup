@@ -21,5 +21,6 @@ My own writeup on KringleCon 2021
 ### Incomplete/Missing Writeups:
 
 - Obj07-Printer_Exploitation (main solution)
+- Obj08-Kerberoasting_on_an_Open_Fire
 - Obj12-Frost_Tower_Website_Checkup
 - Obj13-FPGA_Programming (main solution)
